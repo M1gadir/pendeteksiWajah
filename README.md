@@ -1,3 +1,3 @@
 # pendeteksiWajah
 ini hanya percobaan
-![screenshot](dabi.jpg)
+![screenshot](detector face.jpg)
